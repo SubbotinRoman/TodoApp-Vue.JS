@@ -3,7 +3,7 @@
 ## Overview 🌟
 This application is a simple and easy to use task list developed using modern technologies: Vue 3 (Composition API), Pinia for state management, Tailwind CSS for styling and Vite for project build.
 
-### [Check the Live Demo](https://github.com/SubbotinRoman/TodoApp-Vue.JS) 👈
+### [Check the Live Demo](https://subbotinroman.github.io/TodoApp-Vue.JS/) 👈
 
 <img alt="ToDo-List preview" src="public/preview.png">
 
